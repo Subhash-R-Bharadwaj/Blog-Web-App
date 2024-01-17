@@ -1,0 +1,39 @@
+body {
+  background-image: url("./background2.jpg");
+  background-size: cover;
+}
+
+.social_icon{
+  font-size: xx-large;
+}
+.card{
+  width: 400px;
+  background-color: rgb(28, 158, 11) !important;
+}
+.card-title{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.card-text{
+  color: black;
+  font-family: sans-serif;
+}
+.form{
+  margin: 100px;
+}
+input {
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 10px;
+  background: #e9dfdf;
+  padding: 1rem;
+  cursor: pointer;
+}
+textarea{
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 10px;
+  background: #e9dfdf;
+  padding: 1rem;
+  cursor: pointer;
+}
